@@ -8,7 +8,21 @@
 
 - 🧑‍🏫 I'm  **Master_Hacker_india**
 
+ <br>
+ 
+  <br>
 
+# My currently working Languages and Tools 
+[![My Skills](https://skillicons.dev/icons?i=actix,bash,git,github,gitlab,heroku,html,js,ai,replit,zig,wordpress,webpack,visualstudio,vercel,mongodb,nodejs,openstack,postgres,php,powershell,py,react,raspberrypi,perl,azure,react,vue,nuxtjs,ocaml,flutter&perline=15)](https://github.com/sahanaya2006)
+
+---
+<h3>Anjan's Music Player</h3>
+
+<img src="https://readme-spotify-status-rho.vercel.app/api/run-spotify-status.py" alt="s4nx Playing Now" width="500" />
+   </p>
+<h2 align="center"> 💫 Now Listening On Spotify 💫
+</h2>
+<p align="center"> <img src="https://kai-spotify.vercel.app/api/spotify" alt="kai0071" /> </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Master-hacker-india&label=Profile%20Views&color=ffa500&style=flat" alt="EYPZ" /> </p>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"><b> Skills</b>
@@ -35,18 +49,3 @@
 <b>
 
 <p>Thank You! <img src="https://em-content.zobj.net/source/noto-emoji-animations/344/upside-down-face_1f643.gif" hight ="20px" width ="20px"></p>
- <br>
- 
-  <br>
-
-# My currently working Languages and Tools 
-[![My Skills](https://skillicons.dev/icons?i=actix,bash,git,github,gitlab,heroku,html,js,ai,replit,zig,wordpress,webpack,visualstudio,vercel,mongodb,nodejs,openstack,postgres,php,powershell,py,react,raspberrypi,perl,azure,react,vue,nuxtjs,ocaml,flutter&perline=15)](https://github.com/sahanaya2006)
-
----
-<h3>Anjan's Music Player</h3>
-
-<img src="https://readme-spotify-status-rho.vercel.app/api/run-spotify-status.py" alt="s4nx Playing Now" width="500" />
-   </p>
-<h2 align="center"> 💫 Now Listening On Spotify 💫
-</h2>
-<p align="center"> <img src="https://kai-spotify.vercel.app/api/spotify" alt="kai0071" /> </p>
