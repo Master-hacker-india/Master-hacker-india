@@ -9,8 +9,6 @@
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/151435240?v=4" alt="Your Profile Picture" width="200" height="200">
 
-<h1 align="center"><b>About Mehh </b><img src="https://i.pinimg.com/originals/c1/e9/51/c1e95172d8c115d66148cb9ad68c1c74.gif" width="35"></h1>
-
 - 🧑‍🏫 I'm  **Master_Hacker_india**
 
  <br>
