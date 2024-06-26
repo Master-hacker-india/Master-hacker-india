@@ -35,3 +35,18 @@
 <b>
 
 <p>Thank You! <img src="https://em-content.zobj.net/source/noto-emoji-animations/344/upside-down-face_1f643.gif" hight ="20px" width ="20px"></p>
+ <br>
+ 
+  <br>
+
+# My currently working Languages and Tools 
+[![My Skills](https://skillicons.dev/icons?i=actix,bash,git,github,gitlab,heroku,html,js,ai,replit,zig,wordpress,webpack,visualstudio,vercel,mongodb,nodejs,openstack,postgres,php,powershell,py,react,raspberrypi,perl,azure,react,vue,nuxtjs,ocaml,flutter&perline=15)](https://github.com/sahanaya2006)
+
+---
+<h3>Sahan's Music Player</h3>
+
+<img src="https://readme-spotify-status-rho.vercel.app/api/run-spotify-status.py" alt="s4nx Playing Now" width="500" />
+   </p>
+<h2 align="center"> 💫 Now Listening On Spotify 💫
+</h2>
+<p align="center"> <img src="https://kai-spotify.vercel.app/api/spotify" alt="kai0071" /> </p>
