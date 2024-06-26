@@ -1,7 +1,7 @@
 ![My card name](https://cardivo.vercel.app/api?name=Mr-Anjan-ser%20&description=Hi,%20Welcome%20To%20My%20Profile&image=https://graph.org/file/a9ad23c1153a05cafe814.jpg?s=400&u=5313a9a2f6999325a10ce9bfa9787b536c90894c&v=4?q=tbn:ANd9GcR7aMC3bf4bg4l_nhYS2Un9FXbFYcB4T83Shjk8xSUZDh_D61LFpzbpeqLW&s=10?v=4&backgroundColor=%23e4f2f6&instagram=mr.anjan1&github=officalanjanv2&)
 </p>
 <div align="left">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F72C3F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=My+Name+is+Master_Anjan;Hacker+Developer;Please+Support+Me;Anydoubt+Contact+Me" alt="Typing SVG" /></a>   
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F72C3F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=My+Name+is+Master_Anjan;Hacker+And+Developer;Please+Support+Me;Anydoubt+Contact+Me" alt="Typing SVG" /></a>   
 </p> 
 <div align="center">
 
