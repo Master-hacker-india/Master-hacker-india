@@ -25,7 +25,7 @@
    </p>
 <h2 align="center"> 💫 Now Listening On Spotify 💫
 </h2>
-<p align="center"> <img src="https://kai-spotify.vercel.app/api/spotify" alt="kai0071" /> </p>
+<p align="center"> <img src="https://kai-spotify.vercel.app/api/spotify" alt="Master-hacker-india" /> </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Master-hacker-india&label=Profile%20Views&color=ffa500&style=flat" alt="Master-hacker-india" /> </p>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"><b> Skills</b>
