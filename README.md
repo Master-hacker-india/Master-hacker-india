@@ -7,7 +7,7 @@
 
 </p> 
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/151435240?v=4" alt="Your Profile Picture" width="200" height="200">
+  <img src="https://i.imgur.com/WQncumN.jpeg" alt="Your Profile Picture" width="200" height="200">
 
 - 🧑‍🏫 I'm  **Master_Hacker_india**
 
